@@ -19,6 +19,7 @@ Ich verbinde kommunikatives Denken mit analytischer Präzision.
 
 🌐 **Kontakt & Vernetzung**  
 https://www.linkedin.com/in/keith-billman/
+
 https://github.com/KBill1968
 
 
