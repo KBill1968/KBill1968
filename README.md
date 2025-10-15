@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there I'm Keith
 
-<!--
-**KBill1968/KBill1968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data-Analytics-Enthusiast mit einer vielseitigen Laufbahn in Sprachtraining, Softwaretesting und Datenanalyse. Ich verbinde kommunikatives Denken mit analytischer Präzision.
 
-Here are some ideas to get you started:
+Kurzprofil:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seit 2006 in Deutschland; Tätigkeit als Business-Englisch-Trainer in Braunschweig, Wiesbaden und Erlangen – u. a. für Siemens.
+
+Cambridge CELTA (Prag) – umfangreiche Erfahrung im Sprach- und Kommunikationstraining für Fach- und Führungskräfte.
+
+Ab 2014 Wechsel in die IT- und Automotive-Branche als Softwaretester; über 9 Jahre Erfahrung in Qualitätssicherung, Testmethodik und analytischem Denken.
+
+ISTQB Foundation-Zertifizierung abgeschlossen.
+
+Seit 2024 Weiterbildung zum Data Analyst bei DataSmart Point, Berlin (Abschluss: Okt 2025) mit Schwerpunkten in Excel, SQL, Power BI, Python, Statistik, KI & Machine Learning.
+
+Ziel: Daten verstehen, Muster erkennen und Unternehmen dabei unterstützen, bessere Entscheidungen zu treffen.
+
